@@ -21,7 +21,6 @@ package core;
 
 		  public Contact(String staffName,float hourlyRate,float sunday,float monday, float tuesday, float wednesday, float thrusday,float friday, float saturday, float totalHours,float weeklyRate) {
 		    this.staffName = staffName;
-		   // this.dateOfBirth = dateOfBirth;
 		    this.hourlyRate = hourlyRate;
 		    this.sunday = sunday;
 		    this.monday = monday;
